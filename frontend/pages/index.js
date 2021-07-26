@@ -44,6 +44,7 @@ export async function getStaticProps() {
  });
 
  console.log(posts);
+ K;
 
  return {
   props: {
